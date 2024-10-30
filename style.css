@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #333333;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    color: #666666;
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
